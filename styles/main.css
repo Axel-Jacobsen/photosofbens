@@ -11,7 +11,7 @@ body {
   color: #333;
   background-color: rgb(240, 240, 240);
   font-family: "Inconsolata";
-  padding-top: 25px;
+  margin-top: 25px;
 }
 
 a {
@@ -69,8 +69,7 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 2rem;
-  padding-bottom: 4rem;
+  margin-top: 6rem;
 }
 
 .ben-zone {
